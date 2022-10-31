@@ -26,7 +26,7 @@ Config = {
     MenuImage = "https://i.imgur.com/ghf970b.jpg", ----[Custom banner imgur URLs go here ]---
     -- You can change the menu image by pasting a link above. It must be the same width and length
     -- You can change the name of the menu here.
-    MenuTitle = "DpEmotes V2",
+    MenuTitle = "RUK Emotes",
     -- You can change the menu position here
     MenuPosition = "right", -- (left, right)
     -- You can enable or disable the Ragdoll keybinding here.
