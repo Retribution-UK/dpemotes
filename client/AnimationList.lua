@@ -6667,7 +6667,7 @@ DP.Emotes = {
             PtfxWait = 3000,
             PtfxCanHold = true,
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["pee2"] = {
         "missbigscore1switch_trevor_piss",
@@ -6692,7 +6692,7 @@ DP.Emotes = {
             PtfxWait = 3000,
             PtfxCanHold = true,
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["hump"] = {
         "timetable@trevor@skull_loving_bear",
@@ -8921,7 +8921,7 @@ DP.PropEmotes = {
             EmoteMoving = true,
             EmoteLoop = true
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["pornmag2"] = {
         "amb@world_human_clipboard@male@base",
@@ -8941,7 +8941,7 @@ DP.PropEmotes = {
             EmoteMoving = true,
             EmoteLoop = true
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["pornmag3"] = {
         "amb@world_human_clipboard@male@base",
@@ -8961,7 +8961,7 @@ DP.PropEmotes = {
             EmoteMoving = true,
             EmoteLoop = true
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["pornmag4"] = {
         "amb@world_human_clipboard@male@base",
@@ -8981,7 +8981,7 @@ DP.PropEmotes = {
             EmoteMoving = true,
             EmoteLoop = true
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["pornmag5"] = {
         "amb@world_human_clipboard@male@base",
@@ -9001,7 +9001,7 @@ DP.PropEmotes = {
             EmoteMoving = true,
             EmoteLoop = true
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["pornmag6"] = {
         "amb@world_human_clipboard@male@base",
@@ -9021,7 +9021,7 @@ DP.PropEmotes = {
             EmoteMoving = true,
             EmoteLoop = true
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["pornmag7"] = {
         "amb@world_human_clipboard@male@base",
@@ -9041,7 +9041,7 @@ DP.PropEmotes = {
             EmoteMoving = true,
             EmoteLoop = true
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["makeitrain"] = {
         "anim@mp_player_intupperraining_cash",
@@ -10953,7 +10953,7 @@ DP.PropEmotes = {
             EmoteLoop = true,
             EmoteMoving = false,
         },
-        AdultAnimation = true
+        AdultAnimation = false
     },
     ["selfie"] = {
         "anim@mp_player_intuppertake_selfie",
